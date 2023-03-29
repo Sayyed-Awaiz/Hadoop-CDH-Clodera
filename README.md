@@ -17,11 +17,11 @@ Challenges:
 
 Solution:
 
-• leveraging Datawarehousing leader cloudera we where able to provide A durable and highly Available ETL Environment.
-
-• Capacity Planning for Node Selection And Storage and Compute layer Optimal utilization with Overhead.
-
-• Production Grade Architecture Including HDFS as Storage layer, YARN as resource management layer, Kafka as Extration tool
+• By utilising Cloudera, a leader in data warehousing, we were able to offer a robust and highly accessible ETL environment.
 
 
-Architecture and use case is attached as .pdf please reffere for more insights 
+• Capacity Planning for Node Selection and Storage and Compute Layer Optimal utilization with Overhead.
+
+• Production Grade Architecture, Including HDFS as the Storage Layer, YARN as the Resource Management layer, and Kafka as the Extration tool
+
+For further details on the architecture and use case, please see the attached.pdf.
